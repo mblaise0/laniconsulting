@@ -1,0 +1,54 @@
+
+
+<!-- 
+    Project: laniconsulting.ng
+    Author: alaid_technologies Ltd.
+    Created on: 2024-09-07
+    Description: Developed for Lani consulting. Lani Consulting, based in Nigeria, is a premier consulting firm dedicated to providing innovative and strategic 
+    solutions to businesses across diverse industries. As trusted advisors, we specialize in transforming challenges into opportunities,
+     driving sustainable growth, and fostering enduring client relationships. .
+-->
+
+      <div class="container-fluid py-5 bg-img" id="about" style="margin-top: -53px;">
+        <div class="container pt-5">
+          <div class="row g-5">
+            <div class="col-lg-6 col-md-6 col-sm-12" data-aos="fade-up">
+                <img src="./assets/img/New/eight.jpg" class="img-fluid rounded" alt="about-us">
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 n-ml-spacer" data-aos="fade-up">
+              <h5 class="vc_custom_heading mt-2">Who we are</h5>
+              <h1 class="mb-4">About Lani Consulting</h1>
+              <p> Lani Consulting is a member of Lani Group which provides Management Consulting and Advisory Services to medium and large scale organisations in both public and private sector</p>
+              <p>At LANI Consulting, we are committed to driving positive change through our comprehensive suite of management training, consulting, and advisory services. Since our establishment in 2005, we have been at the forefront of providing innovative solutions to medium and large-scale organisations in both the public and private sectors</p>
+              <!-- <p class="mb-4 d-none d-sm-none d-lg-block d-md-block">We believe in the power of collaboration and expertise to drive meaningful change. With a focus on excellence and integrity, we strive to exceed our clients' expectations by offering tailored solutions that address their unique challenges and opportunities.</p> -->
+              <a href="" class="btn btn-secondary btn-sm rounded-pill px-5 py-3 text-white" data-bs-toggle="modal" data-bs-target="#aboutModal">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <!-- <div class="container-fluid py-5 bg-img" id="about">
+        <div class="container pt-5">
+          <div class="row g-5">
+            <div class="col-lg-5 col-md-6 col-sm-12" data-aos="fade-up">
+              <div class="h-100 position-relative">
+                <img src="./assets/img/about.jpg" class="img-fluid w-75 rounded" alt="" style="margin-bottom: 25%;">
+                <div class="position-absolute w-75" style="top: 25%; left: 25%;">
+                  <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+                  <img src="./assets/img/about.jpg" class="img-fluid w-100 rounded" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-7 col-md-6 col-sm-12" data-aos="fade-up">
+              <h5 class="vc_custom_heading mb4">Who we are</h5>
+              <h1 class="mb-4">About Lani Consulting</h1>
+              <p> Lani Consulting is a member of LANI Group which provides Management Consulting and Advisory Services to medium and large scale organisations in both public and private sector</p>
+              <p>At LANI Consulting, we are committed to driving positive change through our comprehensive suite of management training, consulting, and advisory services. Since our establishment in 2005, we have been at the forefront of providing innovative solutions to medium and large-scale organisations in both the public and private sectors</p>
+              <a href="" class="btn btn-secondary rounded-pill px-5 py-3 text-white" data-bs-toggle="modal" data-bs-target="#aboutModal">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div> -->

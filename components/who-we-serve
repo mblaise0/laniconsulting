@@ -1,0 +1,57 @@
+
+
+      <div class="container">
+        <div class="row gy-4 align-items-center section-one-item">
+          <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
+            <div class="card border-0 shadow">
+              <div class="card-head">
+                <img src="assets/img/public-s03.png" class="img-fluid" alt="">
+              </div>
+              <div class="h6 mt-3 fw-bold text-success p-1">Public Sector</div>
+              <p class="mt-n2 cs-text p-1">
+                LANI Consulting collaborates closely with government bodies at both local and national levels to drive impactful change. We provide..
+              </p>
+              <a href="" class="btn btn-outline-dark rounded-pill btn-sm w-50 mb-3 mx-auto" data-bs-toggle="modal" data-bs-target="#publicSector">Learn more</a>
+            </div>
+          </div>
+
+          <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
+            <div class="card border-0 shadow">
+              <div class="card-head">
+                <img src="assets/img/private-s01.png" class="img-fluid" alt="">
+              </div>
+              <div class="h6 mt-3 fw-bold text-success p-1">Private Sector</div>
+              <p class="mt-n2 cs-text p-1">
+              LANI Consulting provides bespoke solutions to private companies, helping them navigate complex business environments and achieve...
+              </p>
+              <a href="" class="btn btn-outline-dark rounded-pill btn-sm w-50 mb-3 mx-auto" data-bs-toggle="modal" data-bs-target="#privateSector">Learn more</a>
+            </div>
+          </div>
+
+          <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
+            <div class="card border-0 shadow">
+              <div class="card-head">
+                <img src="assets/img/not-for-pofit.png" class="img-fluid" alt="">
+              </div>
+              <div class="h6 fw-bold text-success mt-3 p-1">NGO (Not-for-profit & Social Enterprise)</div>
+              <p class="mt-n2 cs-text p-1">
+                We provide comprehensive consulting services to NGOs and social enterprises, supporting them in achieving their missions...
+              </p>
+              <a href="" class="btn btn-outline-dark rounded-pill btn-sm w-50 mb-3 mx-auto" data-bs-toggle="modal" data-bs-target="#privateSector">Learn more</a>
+            </div>
+          </div>
+
+          <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
+            <div class="card border-0 shadow">
+              <div class="card-head">
+                <img src="assets/img/international-partners.png" class="img-fluid" alt="">
+              </div>
+              <div class="h6 mt-3 fw-bold text-success p-1">International Development Partners</div>
+              <p class="mt-n2 cs-text p-1">
+              LANI Consulting is a trusted partner to international development agencies and donor organisations. We offer ...
+              </p>
+              <a href="" class="btn btn-outline-dark rounded-pill btn-sm w-50 mb-3 mx-auto" data-bs-toggle="modal" data-bs-target="#nonProfit">Learn more</a>
+            </div>
+          </div>
+        </div>
+      </div>

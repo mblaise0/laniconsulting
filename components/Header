@@ -1,0 +1,115 @@
+
+
+  <header id="alaid-header" class="d-flex align-items-stretch bg-white shadow header">
+    <div class="container d-flex justify-content-between align-items-center">
+      <div class="logo">
+        <h1 class="text-light">
+          <a href="index">
+            <img src="./assets/img/logo.png" class="w-100" />
+          </a>
+        </h1>
+      </div>
+
+      <nav id="navbar" class="navbar alaid-navbar align-items-stretch p-0 h-100">
+        <ul>
+          <li><a class="nav-link" href="index">Home</a></li>
+          <li class="nav-item  dropdown-hover position-static">
+            <a data-mdb-dropdown-init class="nav-link" href="#" id="navbarDropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+              Who we are<i class="bi bi-chevron-down"></i>
+            </a>
+            <!-- Dropdown menu -->
+            <div class="dropdown-menu w-100 mt-0" aria-labelledby="navbarDropdown" style="border-top-left-radius: 0;border-top-right-radius: 0;">
+              <div class="container mx-0">
+                <div class="row my-4">
+                  <div class="col-md-6 col-lg-6 mb-3 mb-lg-0">
+                    <div class="list-group list-group-flush">
+                      <h6><strong>GOVERNANCE</strong></h6>
+                      <hr />
+                      <a href="who-we-are#governance" class="ac-bold">Our Governance Principles</a>
+                      <a href="who-we-are#sustainability" class="ac-bold">Sustainability and Responsibility</a>
+                      <a href="who-we-are#esg" class="ac-bold">ESG Framework</a>
+                      <a href="lani-subsidiary" class="ac-bold">Our Subsidiaries</a>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-lg-6 mb-3 mb-lg-0">
+                    <div class="list-group list-group-flush">
+                      <h6><strong>CULTURE AND ETHOS</strong></h6>
+                      <hr />
+                      <a href="who-we-are#culture" class="ac-bold">Values</a>
+                      <a href="who-we-are#culture" class="ac-bold">Commitment</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="dropdown"><a href="#"><span>People</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="people#about">About Us</a></li>
+              <li><a href="people#team" class="disabled-link">Team</a></li>
+              <li><a href="people#how-we-work">How we work</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Who we Serve</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="who-we-serve?id=1">Public Sector</a></li>
+              <li><a href="who-we-serve?id=2">Private Sector</a></li>
+              <li><a href="who-we-serve?id=3">NGO (Not-for-Profit and Social Enterprise)</a></li>
+              <li><a href="who-we-serve?id=4">International Development Partner</a></li>
+
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>What we offer</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="what-we-offer?id=5">Management Strategy</a></li>
+              <li><a href="what-we-offer?id=6">Human Capital Development</a></li>
+              <li><a href="what-we-offer?id=7">Humanitarian and International Development</a></li>
+              <li><a href="what-we-offer?id=8">Sustainability</a></li>
+              <li><a href="what-we-offer?id=9">Financial Technology(Fintech)</a></li>
+              <li><a href="what-we-offer?id=10">Financial Services and Tax Advisory</a></li>
+              <li><a href="what-we-offer?id=11">Information Technology</a></li>
+              <li><a href="what-we-offer?id=12">Agriculture Consulting and Training</a></li>
+            </ul>
+          </li>
+          <li class="nav-item  dropdown-hover position-static">
+            <a data-mdb-dropdown-init class="nav-link" href="#" id="navbarDropdown" role="button" data-mdb-toggle="dropdown" aria-expanded="false">
+              Impacts<i class="bi bi-chevron-down"></i>
+            </a>
+            <!-- Dropdown menu -->
+            <div class="dropdown-menu w-100 mt-0" aria-labelledby="navbarDropdown" style="border-top-left-radius: 0;border-top-right-radius: 0;">
+              <div class="container mx-0">
+                <div class="row my-4">
+                  <div class="col-md-6 col-lg-3 mb-3 mb-lg-0">
+                    <div class="list-group list-group-flush">
+                      <h6><strong>IMPACTS</strong></h6>
+                      <hr />
+                      <a href="impact#research" class="ac-bold disabled-link">Research</a>
+                      <a href="impact#thought-leadership" class="ac-bold">Thought Leadership</a>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-lg-4 mb-3 mb-lg-0">
+                    <div class="list-group list-group-flush">
+                      <h6><strong>EVENTS</strong></h6>
+                      <hr />
+                      <a href="projects" class="ac-bold">Projects</a>
+                      <a href="impact#awards" class="ac-bold">Awards & Recognition</a>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-lg-5 mb-3 mb-lg-0">
+                    <div class="list-group list-group-flush">
+                      <h6><strong>CONTACT US</strong></h6>
+                      <hr />
+                      <a href="contact#socials" class="ac-bold">Connect Social Media Platforms</a>
+                      <a href="contact" class="ac-bold">Collate bio-data</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+    </div>
+  </header>

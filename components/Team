@@ -1,0 +1,114 @@
+
+
+<div class="team-section-area members pad100">
+    <div class="container">
+        <div class="row mb50">
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12">
+                <div class="members xs-mb30">
+                    <div class="spk-img">
+                        <img class="img-fluid" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="CEO" data-aos="fade-up" />
+                        <ul>
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-envelope"></i></a>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="spk-info">
+                        <h3>Ani Charles Bassey-Eyo</h3>
+                        <p>Chief Executive Officer</p>
+                    </div>
+                </div>
+            </div>
+            <!-- /col end-->
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12">
+                <div class="members xs-mb30">
+                    <div class="spk-img">
+                        <img class="img-fluid" src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="COS" data-aos="fade-up" />
+                        <ul>
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="spk-info">
+                        <h3>Lawal Abdul-Sabu</h3>
+                        <p>Chief of Staff</p>
+                    </div>
+                </div>
+            </div>
+            <!-- /col end-->
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-12">
+                <div class="members xs-mb30">
+                    <div class="spk-img">
+                        <img class="img-fluid" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="HTS" data-aos="fade-up" />
+                        <ul>
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="spk-info">
+                        <h3>Olaniyi Omole</h3>
+                        <p>Head, Training Services</p>
+                    </div>
+                </div>
+            </div>
+            <!-- /col end-->
+            <div class="col-xl-3 col-lg-3 d-md-none d-lg-block col-sm-12">
+                <div class="members">
+                    <div class="spk-img">
+                        <img class="img-fluid" src="https://bootdey.com/img/Content/avatar/avatar4.png" alt="BDM" data-aos="fade-up" />
+                        <ul>
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="spk-info">
+                        <h3>Emmanuel Macaulay</h3>
+                        <p>Business Development Manager</p>
+                    </div>
+                </div>
+            </div>
+            <!-- /col end-->
+        </div>
+    </div>
+    <!-- /container end-->
+</div>

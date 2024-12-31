@@ -1,0 +1,80 @@
+    <!-- ======= About Section ======= -->
+    <div id="socials" class="contact_container" data-aos="fade-up">
+        <div class="container">
+            <div class="row mx-0 my-5 position-relative">
+                <div class="col-sm-6 col-lg-6 mb-md-0 p-md-4">
+                    <div class="container">
+                        <h3 class="contact_info_title my-3">Connect With Us</h3>
+                        <p class="my-3">Follow us on Facebook, Youtube, Twitter, and Instagram for the latest information on all our social media pages</p>
+                        <h6 class="text-dark"><i class="fa fa-home"></i> <b>Address:</b> 53B Adekunle Fajuyi Crescent Ikeja, Lagos</h6>
+                        <h6 class="text-dark"><i class="fa fa-phone"></i> <b>Phone:</b> +234 81 8657 2453</h6>
+                        <!-- <h6><i class="bi bi-printer-fill"></i> <b>Fax:</b> +234 (0) 909 685 4458</h6> -->
+                        <h6 class="text-dark"><i class="fa fa-envelope"></i> <b>Email:</b> Info@Lanigroup.Com</6>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h3 class="my-3">Connect Via Social Media</h3>
+                                    <ul class="social-network social-circle">
+                                        <li><a href="#" class="icon-instagram social-icons"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="#" class="icon-facebook social-icons"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="icon-twitter social-icons"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#" class="icon-youtube social-icons"><i class="fa fa-youtube"></i></a></li>
+                                        <li><a href="#" class="icon-linkedin social-icons"><i class="fa fa-linkedin"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-6 ps-md-0">
+                    <div class="container mx-0" data-aos="fade-up">
+                        <h6 disabled class="mx-2 mt-5 contact_info_title">Contact Us Today</h6>
+                        <h4 class="mx-2">For more information about our activities</h4>
+                        <?php if (isset($_SESSION['success'])): ?>
+                            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                <b>Success!</b> <?php echo $_SESSION['success']; ?>
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                            <?php unset($_SESSION['success']) ?>
+                        <?php endif; ?>
+
+                        <?php if (isset($_SESSION['error'])): ?>
+                            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                <b>Oops!</b> <?php echo $_SESSION['error']; ?>
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                            <?php unset($_SESSION['error']) ?>
+                        <?php endif; ?>
+                        <form class="my-3" action="" method="POST">
+                            <div class="row mx-0">
+                                <div class="col-sm-6 my-2">
+                                    <input type="text" class="form-control" id="name" placeholder="Fullname" name="name" required>
+                                </div>
+                                <div class="col-sm-6 my-2">
+                                    <input type="text" class="form-control" id="organisation" placeholder="Organisation" name="organisation" required />
+                                </div>
+                            </div>
+                            <div class="row mx-0">
+                                <div class="col-sm-6 my-2">
+                                    <input type="text" class="form-control" id="email" placeholder="Email" name="email" required />
+                                </div>
+                                <div class="col-sm-6 my-2">
+                                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject" required />
+                                </div>
+                            </div>
+                            <div class="row my-2 mx-3">
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter Message" name="message" reqiured></textarea>
+                            </div>
+                            <div class="form-input">
+                                <!-- Google reCAPTCHA box -->
+                                <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
+                            </div>
+                            <!--<button class="btn btn-primary mx-3 my-2">Submit</button>-->
+                            <input type="submit" class="btn btn-primary mx-3 my-2" name="submit" value="Submit" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="map-location" id="map-location" data-aos="fade-up">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.2314049356355!2d3.3423312737304456!3d6.618148522058815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b93d0d7238641%3A0xfb4613c4a54d4b5f!2s53%20Adekunle%20Fajuyi%20Cres%2C%20Ogba%2C%20Ikeja%20101233%2C%20Lagos!5e0!3m2!1sen!2sng!4v1734399099347!5m2!1sen!2sng" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>

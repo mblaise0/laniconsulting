@@ -1,0 +1,753 @@
+
+<!-- 
+    Project: laniconsulting.ng
+    Author: alaid_technologies Ltd.
+    Created on: 2024-09-07
+    Description: Developed for Lani consulting. Lani Consulting, based in Nigeria, is a premier consulting firm dedicated to providing innovative and strategic 
+    solutions to businesses across diverse industries. As trusted advisors, we specialize in transforming challenges into opportunities,
+     driving sustainable growth, and fostering enduring client relationships. .
+-->
+
+
+<!-- Agricultural modal -->
+<div class="modal zoom-out" id="agriculturalModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">Agricultural Consulting and Training</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        LANI Consulting's agricultural consulting services offer expert guidance in areas such as sustainable farming practices, agribusiness development, and pollination services. 
+        We assist clients in optimizing crop yields, improving soil health, and implementing innovative agricultural technologies to enhance productivity. Our tailored solutions 
+        support both smallholders and large-scale agribusinesses.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Financial Technology (Fintech) trigger modal -->
+<div class="modal fade" id="financialTech" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Financial Technology (Fintech)</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>Our primary expertise lies in overseeing change initiatives within higher education institutions, financial institutions, the government, and the private sector.</p> 
+            <p>Specialises in the intersection of financial technology (Fintech) and research collaboration. We provide expertise and support in developing innovative solutions, 
+            conducting research, and fostering partnerships within the rapidly evolving Fintech ecosystem, driving advancements in finance and technology.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Financial Services and Tax Advisory modal -->
+<div class="modal fade" id="financialTax" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Financial Services and Tax Advisory</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            We also specialise in providing expert financial and tax advisory services, which include strategic financial planning, tax optimization strategies, compliance assistance, 
+            and advisory services tailored to meet the diverse needs of our clients, ensuring financial stability and compliance with regulatory requirements. At both Federal, State, and international levels.
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- Human Capital Development modal -->
+<div class="modal fade" id="humanCapital" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Human Capital Development</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>We offer tailored training programes and talent management strategies to help individuals and organisations reach their full potential, driving growth and innovation in today's business landscape.</p>
+            <p>Our top-quality, in-house courses cover a wide range of subject areas, led by our experienced course director to suit the training needs of our clients.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Humanitarian and International Development modal -->
+<div class="modal fade" id="humanitarianInt" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Humanitarian and International Development</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            LANI Consulting has a proven track record of delivering impactful humanitarian and international development projects that foster socio-economic development in underserved communities. Our work in this area is focused on creating sustainable solutions that address critical needs, such as poverty reduction, healthcare, and education. We offer:
+           <ul>
+            <li><strong>Programme Design and Implementation: </strong> Developing comprehensive programmes that address the root causes of poverty, promote healthcare access, and improve educational outcomes.</li>
+            <li><strong> Monitoring and Evaluation (M&E): </strong> Providing ongoing M&E services to ensure the success and sustainability of development initiatives.</li>
+            <li><strong>Capacity Building: </strong>Enhancing the capabilities of local organizations and governments to ensure that they can sustain development efforts long after programme completion.
+                Our partnerships with international development agencies and donor organizations enable us to drive meaningful change across Africa and other emerging markets</li>
+           </ul>              
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- Information Technology trigger modal -->
+<div class="modal fade" id="infoTech" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Information Technology</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>We also specialise in Information Communication Technology (ICT) services with a focus on digital literacy programs, particularly targeting underserved communities.</p>
+            <p>Our core business areas include providing ICT solutions, training, and support to promote digital inclusion and empower individuals with essential digital skills for socio-economic development.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Management Strategy trigger modal -->
+<div class="modal fade" id="management" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Management Strategy</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>At LANI Consulting, our management strategy services provide organisations with the tools they need to streamline operations, adapt to market changes, and achieve their strategic objectives.</p>
+            <p>Our strategic advisory services are customised to address the specific needs of each client, ensuring that they are equipped to tackle both current and future challenges. We focus on:</p>
+            <ul>
+                <li>Documentation of processes</li>
+                <li>Implementation of new processes</li>
+                <li>Review of internal control processes</li>
+                <li>Benchmarking current processes against best practice processes</li>
+                <li>Optimisation of processes using technology-based solutions</li>
+                <li>Preparation of process manuals</li>
+            </ul>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- Sustanbility Consulting trigger modal -->
+<div class="modal fade" id="sustainability" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Sustainability Consulting</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>Sustainability is a core part of our service offerings at LANI Consulting. We are committed to helping businesses incorporate sustainable practices into their operations, 
+            ensuring that they remain profitable while minimizing their environmental impact. Our sustainability services include:</p>
+            <ul>
+                <li><strong>Sustainability Strategy: </strong>Assisting organisations in developing strategies that align business growth with environmental stewardship.</li>
+                <li><strong>Corporate Social Responsibility (CSR) Programmes: </strong> Designing and implementing CSR initiatives that positively impact communities and enhance brand reputation.</li>
+                <li><strong>Environmental Impact Assessments: </strong>  Helping businesses assess the environmental impacts of their operations and develop plans to mitigate risks.</li>
+            </ul>
+            <p>We work with clients in sectors such as energy, manufacturing, and agriculture, helping them balance profitability with social and environmental responsibility​</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Public Sector trigger modal -->
+<div class="modal fade" id="publicSector" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" data-aos="zoom-in" >
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">Public Sector</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>
+          LANI Consulting collaborates closely with government bodies at both local and national levels to drive impactful change. 
+          We provide consulting services that help shape policy, improve governance, and deliver public sector transformation. 
+          Through our extensive experience, we empower government agencies to enhance public services, improve operational efficiency, 
+          and promote economic development. We specialise in:
+        </p>
+        <ul>
+          <li><strong>Public Policy Advisory:</strong> Assisting governments in formulating policies that meet evolving socio-economic demands.</li>
+          <li><strong>Public Sector Strategy:</strong> Creating long-term, sustainable strategies for national development.</li>
+          <li><strong>Capacity Building:</strong>Developing the skills and capabilities of civil servants and public administrators through tailored training programmes.</strong>
+        </ul>
+        <p>Our work with the public sector spans various industries, from education and infrastructure development to healthcare and agricultural transformation, positioning LANI Consulting as a trusted partner in governance and nation-building.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Private Sector trigger modal -->
+  <div class="modal fade" id="privateSector" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" data-aos="zoom-in" >
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">Private Sector</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>
+            LANI Consulting provides bespoke solutions to private companies, helping them navigate complex business environments and achieve their strategic objectives. We offer services that range from business transformation and strategy development to leadership training and operational optimisation. 
+            Our expertise in key industries enables us to provide targeted solutions that drive growth, increase productivity, and improve financial outcomes. Our offerings for the private sector include:
+          </p>
+          <ul>
+            <li><strong>Business Strategy and Transformation:</strong> Guiding companies through market expansion, operational restructuring, and performance improvement.</li>
+            <li><strong>Leadership and Management Training:</strong> Equipping business leaders with the skills needed to thrive in competitive markets.</li>
+            <li><strong>Digital Transformation:</strong> Implementing technology solutions that streamline operations, enhance customer experiences, and future-proof businesses.</li>
+          </ul>
+          <p>Our strategic advisory services cover a broad spectrum of industries, including finance, energy, technology, telecommunications, and manufacturing, positioning businesses for long-term success.
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- Non profit trigger modal -->
+<div class="modal fade" id="nonProfit" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" data-aos="zoom-in" >
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="staticBackdropLabel">NGO (Not-for-Profit and Social Enterprise)</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>
+          We provide comprehensive consulting services to NGOs and social enterprises, supporting them in achieving their missions and scaling their social impact. 
+          Our consulting expertise in this sector focuses on improving operational efficiency, optimising resource utilisation, and enhancing financial sustainability. LANI Consulting’s tailored solutions for NGOs include:
+        <p>
+        <ul>
+          <li><strong>Strategic Planning:</strong> Helping NGOs develop long-term strategies that align with their mission and goals.</li>
+          <li><strong>Programme Management:</strong> Assisting organisations in managing complex projects, ensuring they meet objectives within set timelines and budgets.</li>
+          <li><strong>Fundraising and Donor Engagement:</strong> Helping NGOs secure funding by writing winning proposals and crafting compelling fundraising strategies.</li>
+        </ul>
+        <p>Our extensive work in this sector covers education, health, poverty alleviation, and community development, where we enable not-for-profits to make a greater impact.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- International Development Partners trigger modal -->
+  <div class="modal fade" id="internationalDev" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="staticBackdropLabel">International Development Partners</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>
+            LANI Consulting is a trusted partner to international development agencies and donor organisations. We offer consulting services that contribute to sustainable 
+            development and poverty reduction in emerging markets, with a particular focus on Africa. Our collaboration with global institutions aims to foster inclusive economic 
+            growth, improve healthcare, enhance educational outcomes, and reduce inequality. Services we provide to international development partners include:
+          </p>
+          <ul>
+            <li><strong>Programme Design and Implementation:</strong> Creating impactful development programmes that address local challenges and meet global goals.</li>
+            <li><strong>Monitoring and Evaluation (M&E):</strong> Offering comprehensive M&E services to track the effectiveness and impact of development initiatives.</li>
+            <li><strong>Capacity Building for Local Governments and Organisations:</strong> Strengthening the capabilities of local institutions to ensure sustainable development outcomes.</li>
+          </ul>
+          <p>Our work with international development partners spans various initiatives, including humanitarian relief, infrastructure development, and economic empowerment programmes, fostering meaningful change in underserved communities​</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <!-- About us trigger modal -->
+    <div class="modal fade" id="aboutModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel">About Lani Consulting</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>
+              Lani Consulting is a member of LANI Group which provides Management Consulting and Advisory Services to medium and large scale organisations in both public and private sector.
+            </p>
+            <p>At LANI Consulting, we are committed to driving positive change through our comprehensive suite of management training, consulting, and advisory services. Since our establishment in 2005, we have been at the forefront of providing innovative solutions to medium and large-scale organisations in both the public and private sectors</p>
+
+            <p>
+              We believe in the power of collaboration and expertise to drive meaningful change. With a focus on excellence and integrity, we strive to exceed our clients' expectations by offering tailored solutions that address their unique challenges and opportunities.
+            </p>
+           
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Awards & Recognition trigger modal -->
+    <div class="modal fade" id="awardsandregonition" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel">Awards & Recognition</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body text-justify">
+            <p>
+            At Geyiba Agro-Development Services, the agricultural consulting arm of LANI Consulting, 
+            our dedication to excellence in the agricultural sector has earned us significant accolades and recognition, 
+            reflecting our commitment to innovation, sustainability, and impactful service delivery.
+            </p>
+            <p>
+              In 2022, Geyiba Agro-Development Services was honored with the Merit Award of Honour as the Best
+              Forester in Lagos State during the World Food Day celebration. This prestigious award was presented
+              by the Lagos State Government's Ministry of Agriculture in conjunction with Aller Aqua Nigeria Limited.
+              This recognition highlights our leadership in advancing sustainable forestry practices and our unwavering
+              commitment to environmental stewardship within Lagos State.
+            </p>
+            <p>
+            In addition to this esteemed award, we were also recognized as a Major Sponsor at the 2022 International Day 
+            of Forests, organized by the Lagos State Government's Ministry of Agriculture. Our sponsorship and active 
+            participation in this event underscore our dedication to promoting sustainable forestry and contributing to 
+            the preservation of our natural resources.
+            </p>
+            <p>
+            These awards are a testament to the impact of our work and the trust that our clients, partners, and the broader
+             community place in us. As we continue to push the boundaries of agricultural consulting, we remain steadfast in 
+             our mission to support the agricultural sector with cutting-edge solutions, expertise, and a commitment to sustainability.
+            </p>
+    
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- African trigger modal -->
+    <div class="modal fade" id="africa" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel">Africa</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body text-justify">
+            <p>
+              Africa has gone through many changes over the years, from the era of vibrant and diverse cultural kingdoms during the pre-colonial era, to the 
+              colonial era and finally the era that lead to the gradual decolonisation of Africa. Since these dynamic periods, many changes have occurred across
+              Africa in terms of infrastructure, education, science and technology, religion and tourism.
+            </p>
+            <p>
+              Sub-Saharan Africa in particular has seen remarkable but not enough change through her history; as a result it is far behind the world in general in
+              various aspects. This has split the sub-Saharan society in two, the first part comprising of the elites or the higher class who live in an overabundance
+              while the second part is comprised of the masses that live with an insufficiency of resources to survive their day to day life.
+            </p>
+            <p>
+              As an African, I am passionate about the renaissance of an Africa devoid of drought, pictures of malnourished children and issues of corruption relating 
+              to our political circles. It is time for the rebirth of a sub-Saharan Africa where entrepreneurship, technology, and the powerful youth drive a change worth discussing in the global sphere.
+            </p>
+            <p>
+              For this reason, I am happy to support the development of positive change that presents Africa in a new light and dimension in collaboration with others, through the foundation, other initiatives,
+              projects and programmes. Such projects could range from reshaping the view and image of our diverse cultural heritage to shedding light on our rich cultural background in areas such as our cuisine 
+              and tourist sites; thus helping shape the values that make us African.
+            </p>
+    
+          </div>
+        </div>
+      </div>
+    </div>
+
+        <!-- Child Right trigger modal -->
+        <div class="modal fade" id="childRight" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Child Right</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  Every human being is a child before adulthood and we must collectively support the rights of children to health care, 
+                  education and ensure that their basic human right is entrenched. We should do this through reforms and policy at the 
+                  political sphere and also support social organisations that enable children’s right to be enhanced at the basic level.
+                </p>
+                <p>
+                  Over the last decade, through the WHRIN, I have supported the eradication of the abuse of child rights under the allegation
+                  of witchcraft in Akwa Ibom state. This was done through the creation of forums and policies. I also continue to support through
+                  the LANI Foundation, projects that enables orphans, marginalised children, those with physical disabilities and neurodiversity 
+                  in particular, find a better place in the society. This was achieved by building a more stable environment for them to be nurtured
+                  in, though ideally children should not be left to develop in orphanages but in a loving and stable family home.
+                </p>
+                <p>
+                  One of my beliefs is that no child under 16 or 18 should be employed in a Nigerian household, if one wants to help a child, enrolling
+                  that child in a school is the better thing to do. Child labour should be fought against so that we can help these children with more 
+                  sustainable practices by offering them education and not domestic slavery.
+                </p>
+                <p>
+                  For this reason, I am happy to support the development of positive change that presents Africa in a new light and dimension in collaboration with others, through the foundation, other initiatives,
+                  projects and programmes. Such projects could range from reshaping the view and image of our diverse cultural heritage to shedding light on our rich cultural background in areas such as our cuisine 
+                  and tourist sites; thus helping shape the values that make us African.
+                </p>
+        
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Conservation trigger modal -->
+        <div class="modal fade" id="conservation" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Conservation</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  Our environment is important; I come from Nigeria’s greenbelt and believe we need to pursue endeavours that conserve and clean our environment. 
+                  We cannot carry out actions without thinking of what the impact will be on our environment. So from the view of the plants, animals and the natural
+                  systems around us, we need to figure out ways to not destroy and nullify the roles each of these elements play in the natural order of things. Thus, 
+                  the need to teach our future generation how to be more involved in that conservation. Also being based in the agricultural sector, I am keen on the 
+                  results of our activities on our environment.
+                </p>
+                <p>
+                  Sehai Foods Ltd, a company I co-founded within the Apiculture value chain is focused on sustainable bee keeping practices in line with Sustainable 
+                  Development Goals during the honey production process. Looking at the impact of beekeeping on the world we see that bees pollinate about 35% of crops
+                  in the world. Beekeeping is one agricultural enterprise that despite being a profit entity helps in conserving our environment and thus in turn creates
+                  conservation awareness in the sub-Saharan Africa. I am therefore interested at speaking and sharing thoughts in forums and events on how to better conserve our environment.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- disabilities trigger modal -->
+        <div class="modal fade" id="disabilities" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Disabilities</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  Disabilities are often overlooked in places such as Africa and I find it compelling to get involved as an activist in promoting the 
+                  rights of persons with disabilities not just in sub-Saharan Africa but in the global arena.
+                </p>
+                <p>
+                  Unfortunately, disability is being tackled using the Charity Model throughout sub-Saharan Africa. The Charity Model is not dependent 
+                  on the existence of charities – but it does heavily inform many charities, especially ones focused on disability. It is concerned with
+                  seeing disability as tragic and in need of support. The model is not about supporting disabled people to live our lives on our own terms;
+                  it is not concerned with civil rights, independent living, meaningful employment or equal access to education.
+                </p>
+                <p>
+                  There are a number of charities for disabled people constructed on this basis, led by non-disabled people to help disabled people live better
+                  lives or find cures. This is a problem as it not only means that services are not shaped by people who truly understand the needs of disabled 
+                  people, but they also offer no role-modelling or alternative narratives for disabled people.
+                </p>
+                <p>
+                  Often “Charity Model” charities fundraise through imagery and messaging that shows disabled people as helpless and tragic – to generate emotive 
+                  responses from non – disabled people who will hopefully feel enough pity to put their hands in their pocket. Though this may solve the immediate
+                  needs of the individuals or groups concerned, it gives these people the role of liabilities in the society that people ought to consider because 
+                  of their disabilities. No attention is given to the real needs of those with disabilities which is social acceptance and dreams of also pursuing 
+                  realisable goals which in turn gives them a sense of purpose and value in the society.
+                </p>
+                <p>
+                  Often “Charity Model” charities fundraise through imagery and messaging that shows disabled people as helpless and tragic – to generate emotive 
+                  responses from non – disabled people who will hopefully feel enough pity to put their hands in their pocket. Though this may solve the immediate
+                  needs of the individuals or groups concerned, it gives these people the role of liabilities in the society that people ought to consider because 
+                  of their disabilities. No attention is given to the real needs of those with disabilities which is social acceptance and dreams of also pursuing 
+                  realisable goals which in turn gives them a sense of purpose and value in the society.
+                </p>
+                <p>
+                  We must encourage a tripartite solution involving public, private and the federal sector to develop and establish a new platform that will create 
+                  sustainable change. It is in light of this that I hope that the new era of the sustainable development goals will entrench a better understanding 
+                  and development of a more inclusive society for all.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Education trigger modal -->
+        <div class="modal fade" id="education" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Education</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  Education is one of the best things we can ever give to the next generation. It should be about not just going to school but creating a suitable
+                  environment for lifelong learning where we continue to learn throughout the trajectory of human life. However, a strong foundation particularly 
+                  at early childhood cannot be overemphasised as it is during this period that we develop the grit and cognitive abilities that enables us to pursue
+                  a fulfilling life.
+                </p>
+                <p>
+                  Education in sub-Saharan Africa must be recalibrated, as the current model is not geared towards a digital age. It does not provide learners with the
+                  competence and the minimum skills required in the current digitally inclined workplace. A determination to further improve the currently crippled 
+                  educational system has led me to solve one of the problems within the education ecosystem which is about the training of our teachers. I often say a
+                  teacher is the most fundamental aspect of the education chain; one can train under a tree in Kenya but have a better outcome than those trained in a
+                  beautiful classroom in Nigeria. So it is really about the teacher that is what led me to co-founded the Axiom Learning Solutions.
+                </p>
+                <p>
+                  Therefore, as an active practitioner and advocate, I continue to pursue the understanding of needs at grassroots that will lead to learning outcomes 
+                  that encompasses localised solutions, problem-solving, innovative funding concepts as well as connections with global environment to create and implement
+                  a curriculum that is all-encompassing.
+                </p>
+                <p>
+                  However, there are other areas within education that are relatively important. One area I have interest in is education finance and under this, the question
+                  is how we can give credit to people so that they can access education. It is an area I am constantly looking to collaborate and work with other people to 
+                  create a significant social impact; either through a business, a social enterprise or public sector engagement.
+                </p>
+                <p>
+                  Often “Charity Model” charities fundraise through imagery and messaging that shows disabled people as helpless and tragic – to generate emotive 
+                  responses from non – disabled people who will hopefully feel enough pity to put their hands in their pocket. Though this may solve the immediate
+                  needs of the individuals or groups concerned, it gives these people the role of liabilities in the society that people ought to consider because 
+                  of their disabilities. No attention is given to the real needs of those with disabilities which is social acceptance and dreams of also pursuing 
+                  realisable goals which in turn gives them a sense of purpose and value in the society.
+                </p>
+                <p>
+                  We must encourage a tripartite solution involving public, private and the federal sector to develop and establish a new platform that will create 
+                  sustainable change. It is in light of this that I hope that the new era of the sustainable development goals will entrench a better understanding 
+                  and development of a more inclusive society for all.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Efik Culture trigger modal -->
+        <div class="modal fade" id="efik" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Efik Culture</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  The Efiks found in Cross River and Akwa Ibom states are one of the most civilised and dual documented ethnic groups in Africa. Calabar is seen to be 
+                  a centre of culture and as a true son of the soil, I pursue an interest that covers and protects Efik language, culture, and custom as a way of preserving
+                  her own heritage in the context of being Nigerian.
+                </p>
+                <p>
+                  I seek collaboration to educate youths in identifying with their mother tongue and our rich culture in particular. In order to be relevant and to add value 
+                  in the global dimension, one must be firmly rooted in his/ her culture. I believe that this diversity through individual identity is what adds to the richness
+                  of our connections and breadth of our experiences.
+                </p>
+                <p>
+                  Our traditions are found in the language, the folklore, the poetry and the plays; we must however engage with our institutions and bastions of our cultural 
+                  heritage to transform and remain progressive for future generations. In Nigeria for instance we must at the bare minimum support this through our four main 
+                  centres of culture namely Benin, Calabar, Ife and Kano.
+                </p>
+                <p>
+                  Do visit the <a href="http://rebuildcalabar.org/" class="text-danger">Rebuild Calabar website </a> to learn about on-going activities in this segment
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Enterprise Culture trigger modal -->
+        <div class="modal fade" id="enterprise" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Enterprise</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  “Not everyone is an entrepreneur however, everybody can be part of the entrepreneurial experience” - ACB
+                  So how does one on-board more people, even when one is not an entrepreneur, how can they be integrated into the journey. 
+                  In the running of an enterprise there are different stages or phases of an entrepreneurial transaction which is carried out
+                  by various individuals who are not entrepreneurs. These individuals can be integrated into the entrepreneurial journey as 
+                  employers, investors, buyers of the goods and services or otherwise. The key thing is building those entrepreneurial 
+                  relationships within that ecosystem, so the business is sustainable, then the employees and employers stay happy.
+                </p>
+                <p>
+                  So it is a win-win solution for enterprise. But when we try to almost force people who are not entrepreneurs into it,
+                  it does not work out. One thing I want to do in entrepreneurship is to encourage people who have ideas whether in terms 
+                  of mentoring, funding or investment to help them get to where they need to be. Secondly, to make those who are not entrepreneurs
+                  comfortable and also help them add value to enterprise. Personally, I also believe that within our businesses, we can still be 
+                  “intrapreneurs” i.e. within the business, how do we maximise our entrepreneurship skills. We need to look at new models of enterprise
+                  to make things different.
+                </p>                         
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- mentoring Culture trigger modal -->
+        <div class="modal fade" id="mentoring" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Mentoring & Impartation</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  A large number of people continue through life without having found a sense of purpose largely because they did not find connections with people
+                  who could have invested in them by coaching and mentoring them from their own personal experiences.
+                </p>
+                <p>
+                  I see mentoring as a two way relationship of respect and sharing of experiences that helps build both the mentee and the mentor. As a mentor, I 
+                  have mentored senior business leaders, young leaders as well as youths within different communities in both developed and developing countries.
+                  I look forward to engaging and instructing prospective mentees be it through educative programmes such as seminars and talks in various educational
+                  institutions across sub-Saharan Africa or through organised forums. If you wish to be mentored by me or engage my services in any of the above 
+                  mentioned forms,please <a href="http://laniconsulting.ng/contact">get in touch.</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Social Entrepreneurship Culture trigger modal -->
+        <div class="modal fade" id="social" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered modal-lg modal-dialog-scrollable">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Social Entrepreneurship</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body text-justify">
+                <p>
+                  Entrepreneurs usually engage in business with a risk and reward mind-set, which has money-making as the end gain. But when looking at social entrepreneurship
+                  we are looking at how to develop, fund and implement solutions to social, cultural, or environmental issues. Social entrepreneurship has drawn interest from 
+                  global policy makers and social entrepreneurs to target developing countries. Generally, not-for-profit organisations, funded by government and donor grants 
+                  have played a significant role in poverty alleviation. It is all about: “Finding solutions to problems in the society on the journey of money-making”.
+                </p>
+                <p>
+                  The aftermath of so-called “social impact investment” in sub-Saharan Africa has produced not enough result in battling the ever-growing scourge of poverty. Why?
+                  In reality it takes two solid ends to build a reliable bridge. Efforts have been made by organisations in diaspora to improve the living conditions in sub-Saharan
+                  Africa through endless innovative ways that give to the society but still the poverty rising levels of some countries grows ever stronger. This is as a result of 
+                  the other end which is comprised of the local or African-based entrepreneurs not being nearly as reliable. We must always learn to give back to our communities, and
+                  everyone who is an entrepreneur or runs a portfolio of entrepreneurial interest must support one cause or another. Yes, it is up to you and me to fulfil our part of 
+                  the bargain and help in bringing social change within our countries across sub-Saharan Africa.
+                </p>
+                <p>
+                  At LANI Foundation, we have created programs that will enable social entrepreneurship and we look forward to further developing the base model that we have created 
+                  by collaborating with other partners.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+          <!-- laniGroup trigger modal -->
+          <div class="modal fade" id="laniGroup" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-md modal-dialog-scrollable">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">Lani Group</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-justify">
+                  <p class="text-justify">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                  </p>
+                  <p class="text-justify">For more information, visit <a href="#" class="text-danger">our website</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+            <!-- Geyiba Agro-Devlopmental Services trigger modal -->
+            <div class="modal fade" id="geyiba" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered modal-md modal-dialog-scrollable">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">Geyiba Agro-Devlopmental Services</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body text-justify">
+                    <p class="text-justify">
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <p class="text-justify">For more information, visit <a href="#" class="text-danger">our website</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          <!-- Lani Foundation trigger modal -->
+          <div class="modal fade" id="laniFoundation" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-md modal-dialog-scrollable">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">Lani Foundation</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-justify">
+                  <p class="text-justify">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                  </p>
+                  <p class="text-justify">For more information, visit <a href="#" class="text-danger">our website</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Sehai Foods Ltd  trigger modal -->
+          <div class="modal fade" id="sehai" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-md modal-dialog-scrollable">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">LANI Group</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-justify">
+                  <p class="text-justify">
+                    Sehai Foods Ltd (pronounced Say-hai-ee) specializes in premium, natural products, including Sehai Honey, a 100% locally sourced honey blend. Known for its exceptional quality and flavor, Sehai Honey offers a healthy sugar alternative, ideal for beverages. Packaged in 400g PET bottles, it caters to homes, offices, and supermarkets, reflecting Sehai Foods' commitment to excellence and sustainability.
+                  </p>
+                  <p class="text-justify">For more information, visit <a href="#" class="text-danger">our website</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- lani Merchandising  trigger modal -->
+          <div class="modal fade" id="laniMerchant" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-md modal-dialog-scrollable">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">LANI Merchandising Support</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-justify">
+                  <p class="text-justify">
+                    As specialists in end-to-end procurement, LANI Merchandising Support a proud member of the LANI Group offer a diverse portfolio of products, including Groceries, Wine & Liquor, Frozen/Sea Foods, and Steaks. Our dedication to excellence in serving the hospitality sector ensures timely delivery of high-quality orders, sourced both locally and internationally, to exceed client expectations.
+                  </p>
+                  <p class="text-justify">For more information, visit <a href="#" class="text-danger">our website</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- laniConsulting trigger modal -->
+          <div class="modal fade" id="laniConsulting" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-md modal-dialog-scrollable">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">LANI Consulting</h5>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body text-justify">
+                  <p class="text-justify">
+                    LANI Consulting, a division of LANI Group established in 2005, delivers management training, consultancy, and advisory services for medium- and large-scale organizations in the public and private sectors. We excel in driving organizational growth, innovation, and sustainable development across diverse industries, including Management and Strategy, Fintech, Human Capital Development, Humanitarian and International Development, Financial Services, ICT, Agriculture, and Sustainability.
+                  </p>
+                  <p class="text-justify">For more information, visit <a href="laniconsulting.ng/about" class="text-danger">our website</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
