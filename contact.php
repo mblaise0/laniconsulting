@@ -1,4 +1,3 @@
-
 <!-- 
     Project: laniconsulting.ng
     Author: alaid_technologies Ltd.
@@ -42,6 +41,7 @@ session_regenerate_id(true);
 
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js"></script>
 
 </head>
 
@@ -82,6 +82,11 @@ session_regenerate_id(true);
     <script src="assets/js/main.js"></script>
     <script src="assets/js/bg.js"></script>
     <script src="assets/js/owl.carousel.js"></script>
+    <script>
+        function onSubmit(token) {
+            document.getElementById("myForm").submit();
+        }
+    </script>
 </body>
 <?php include_once './components/Modals' ?>
 

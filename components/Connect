@@ -14,11 +14,11 @@
                                 <div class="col-sm-12">
                                     <h3 class="my-3">Connect Via Social Media</h3>
                                     <ul class="social-network social-circle">
-                                        <li><a href="#" class="icon-instagram social-icons"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#" class="icon-facebook social-icons"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#" class="icon-twitter social-icons"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#" class="icon-youtube social-icons"><i class="fa fa-youtube"></i></a></li>
-                                        <li><a href="#" class="icon-linkedin social-icons"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href=" https://www.instagram.com/laniconsultingng?igsh=MTRzZmozNW1xcHZy" class="icon-instagram social-icons"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://www.facebook.com/profile.php?id=100092974909120" class="icon-facebook social-icons"><i class="fa fa-facebook"></i></a></li>
+                                        <!-- <li><a href="#" class="icon-twitter social-icons"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#" class="icon-youtube social-icons"><i class="fa fa-youtube"></i></a></li> -->
+                                        <li><a href=" https://www.linkedin.com/company/lani-consulting/" class="icon-linkedin social-icons"><i class="fa fa-linkedin"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -43,7 +43,7 @@
                             </div>
                             <?php unset($_SESSION['error']) ?>
                         <?php endif; ?>
-                        <form class="my-3" action="" method="POST">
+                        <form class="my-3" action="contact-script.php" method="POST" id="myForm">
                             <div class="row mx-0">
                                 <div class="col-sm-6 my-2">
                                     <input type="text" class="form-control" id="name" placeholder="Fullname" name="name" required>
@@ -63,12 +63,10 @@
                             <div class="row my-2 mx-3">
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Enter Message" name="message" reqiured></textarea>
                             </div>
-                            <div class="form-input">
-                                <!-- Google reCAPTCHA box -->
-                                <div class="g-recaptcha" data-sitekey="<?php echo $siteKey; ?>"></div>
-                            </div>
                             <!--<button class="btn btn-primary mx-3 my-2">Submit</button>-->
-                            <input type="submit" class="btn btn-primary mx-3 my-2" name="submit" value="Submit" />
+                            <!-- <input type="submit" class="btn btn-primary mx-3 my-2" name="submit" value="Submit" /> -->
+                            <button class="g-recaptcha" data-sitekey="6LeorLoqAAAAACDmTQI1pGmm-QmOzVxvpfumJjxq" data-callback="onSubmit">Submit</button>
+
                         </form>
                     </div>
                 </div>

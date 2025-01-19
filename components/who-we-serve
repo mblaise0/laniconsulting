@@ -5,7 +5,7 @@
           <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
             <div class="card border-0 shadow">
               <div class="card-head">
-                <img src="assets/img/public-s03.png" class="img-fluid" alt="">
+                <img src="assets/img/public.jpg" class="img-fluid" alt="">
               </div>
               <div class="h6 mt-3 fw-bold text-success p-1">Public Sector</div>
               <p class="mt-n2 cs-text p-1">
@@ -18,7 +18,7 @@
           <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
             <div class="card border-0 shadow">
               <div class="card-head">
-                <img src="assets/img/private-s01.png" class="img-fluid" alt="">
+                <img src="assets/img/private.jpg" class="img-fluid" alt="">
               </div>
               <div class="h6 mt-3 fw-bold text-success p-1">Private Sector</div>
               <p class="mt-n2 cs-text p-1">
@@ -31,7 +31,7 @@
           <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
             <div class="card border-0 shadow">
               <div class="card-head">
-                <img src="assets/img/not-for-pofit.png" class="img-fluid" alt="">
+                <img src="assets/img/ngo.jpg" class="img-fluid" alt="">
               </div>
               <div class="h6 fw-bold text-success mt-3 p-1">NGO (Not-for-profit & Social Enterprise)</div>
               <p class="mt-n2 cs-text p-1">
@@ -44,7 +44,7 @@
           <div class="col-md-3 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="300">
             <div class="card border-0 shadow">
               <div class="card-head">
-                <img src="assets/img/international-partners.png" class="img-fluid" alt="">
+                <img src="assets/img/international.png" class="img-fluid" alt="">
               </div>
               <div class="h6 mt-3 fw-bold text-success p-1">International Development Partners</div>
               <p class="mt-n2 cs-text p-1">

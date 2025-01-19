@@ -1,4 +1,3 @@
-
 <!-- 
     Project: laniconsulting.ng
     Author: alaid_technologies Ltd.
@@ -29,7 +28,7 @@ require './phpmailer/src/SMTP.php';
 */
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
-    $org = $_POST['organization'];
+    $org = $_POST['organisation'];
     $email = $_POST['email'];
     $message = $_POST['message'];
     $visitor_name = $_POST['name'];
@@ -38,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
     $mail->SMTPDebug = 0;
 
-    $mail->Host = 'jofaye.com';   //this should be the domain
+    $mail->Host = 'laniconsulting.ng';   //this should be the domain
     $mail->SMTPAuth = true;
     $mail->Username = $webEmail;
     $mail->Password = $webEmailPassword;
@@ -57,7 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         $token = $_POST['g-recaptcha-response'];
         $url = 'https://www.google.com/recaptcha/api/siteverify';
         $data = array(
-            'secret' => 'enter-secret-password',
+            'secret' => '6LeorLoqAAAAAAc_A-gafbUxd09hr97CnM4A_JVi',
             'response' => $token
         );
 
